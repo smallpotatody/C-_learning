@@ -360,4 +360,4 @@ int main()
 
 思维导图：![](C:/Users/Administrator/Documents/C++_learning/day02/Mind_Pictures/day02.jpeg)
 
-代码地址：
+代码地址：[https://github.com/smallpotatody/C-_learning/tree/master/day02/code](https://github.com/smallpotatody/C-_learning/tree/master/day02/code)
