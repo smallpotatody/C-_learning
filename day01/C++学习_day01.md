@@ -154,5 +154,7 @@ bool类型占1个字节大小
 
 语法：`cin >> 变量`
 
-代码地址：[https://github.com/smallpotatody/C-_learning/tree/master/code](https://github.com/smallpotatody/C-_learning/tree/master/code)
+代码地址：[https://github.com/smallpotatody/C-_learning/tree/master/day01/code](https://github.com/smallpotatody/C-_learning/tree/master/day01/code)
+
+思维导图：![](./Mind_Pictures/C++_day01.png)
 
