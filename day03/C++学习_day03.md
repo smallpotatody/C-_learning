@@ -348,3 +348,5 @@ int main()
 ```
 
 结果：![](./pictures/19.jpg)
+
+代码地址：[https://github.com/smallpotatody/C-_learning/tree/master/day03/code](https://github.com/smallpotatody/C-_learning/tree/master/day03/code)
